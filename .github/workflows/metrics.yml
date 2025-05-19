@@ -23,4 +23,3 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Helsinki
           plugin_languages: yes
-          plugin_languages_sections: ["recently-used", "most-used"]
